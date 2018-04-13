@@ -4,9 +4,10 @@ That caused lighter and faster core, dynamic loading, asynchronous template comp
 
 D/W Angular Js AND Anular
 
-javascript based / type script based
-only webapplication / web and mobile
-controllers based  / component based
+javascript  / type script, 
+only webapplication / web and mobile,
+controllers based  / component based,
+object based / opps,
 
 
 Angular 1 -> 2012
